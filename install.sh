@@ -7,6 +7,5 @@ cd ./bot4.0-
 bash install.sh
 cd
 cd ./bot4.0-
-npm start
 
 echo "[*] obrigado por utilizar o bot \"darkbot\" dark agradece"
